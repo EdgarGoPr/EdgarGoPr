@@ -1,9 +1,12 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+<div align="center">
+    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</div>
+<div align="center">
+    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Edgar Gonzalez de Prada</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/EdgarGoPr?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/EdgarGoPr?style=social)
+![GitHub followers](https://img.shields.io/github/followers/EdgarGoPr?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/EdgarGoPr?style=social) <img src="https://komarev.com/ghpvc/?username=EdgarGoPr&label=Profile%20views&color=0e75b6&style=flat" alt="EdgarGoPr" /> </p>
 
 ## About Me :
 
@@ -49,10 +52,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EdgarGoPr)](https://github.com/EdgarGoPr/github-profile-trophy)
 
-<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
-## Activity Graph 📊 :
-
-<br>
-
-[![EdgarGoPr's github activity graph](https://activity-graph.herokuapp.com/graph?username=EdgarGoPr&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/EdgarGoPr/github-readme-activity-graph)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
