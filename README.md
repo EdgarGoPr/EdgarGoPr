@@ -32,9 +32,11 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,github,html,js,nodejs,react,redux,tailwind,vscode&perline=14" />
+  </a>
+</p>
 
 <br>
 
